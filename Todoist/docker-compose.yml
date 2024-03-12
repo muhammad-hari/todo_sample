@@ -1,0 +1,19 @@
+version: '3.4'
+
+services:
+  todoist.api:
+    image: ${DOCKER_REGISTRY-}todoistapi
+    build:
+      context: .
+      dockerfile: Todoist.Api/Dockerfile
+    networks:
+      - todoist-network
+   
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    networks:
+      - todoist-network
+       
+networks:
+  todoist-network:
+    driver: bridge
