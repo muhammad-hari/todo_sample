@@ -7,7 +7,7 @@ It should be noted that what I am implementing here is only a demonstration that
 
 ## Layered Architecture
 
-![DDD_png_pure]([https://user-images.githubusercontent.com/1147445/54773098-e1efe700-4c19-11e9-9150-74f7e770de42.png](https://jasontaylor.dev/wp-content/uploads/2020/01/Figure-01-2.png))
+![figure1](https://jasontaylor.dev/wp-content/uploads/2020/01/Figure-01-2.png)
 
 ### Structure of Project
 Repository include layers divided by **4 project**;
