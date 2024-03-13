@@ -26,6 +26,7 @@ Repository include layers divided by **4 project**;
 * Angular (FrontEnd)
 * Entity Framework Core (ORM) 
 * Message Brocker (RabbitMQ)
+* NUnit
 * etc
 
 ## Architecture
