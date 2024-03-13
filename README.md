@@ -11,8 +11,6 @@ It should be noted that what I am implementing here is only a demonstration that
 
 ### Structure of Project
 Repository include layers divided by **4 project**;
-* API
-  * The API layer is the part of an Application that is responsible for Programming everything it needs to send and receive data via an Interface (APIs).
 * Domain
   * It’s responsible for implementing the application’s business logic and contains the entities and use cases. The Domain Layer is independent of the presentation and infrastructure layers and should only contain business logic that’s specific to the application.  
 * Application
