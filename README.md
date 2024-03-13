@@ -3,7 +3,7 @@ This project is a simple application to create a Todo List Application, demonstr
 and aimed to be a **Clean Architecture**, with applying **SOLID principles**. 
 
 ## Note:
-It should be noted that what I am implementing here is only a demonstration that does not reach all business logic, I only provide a few simple implementations and I am very happy if later when joining I can provide the experience I have for actual cases.
+It should be noted that what I am implementing here is only a demonstration that does not reach all business logic, I only provide a few simple implementations and I am very happy if later when joining I can provide my experience that i have for actual cases.
 
 ## Layered Architecture
 
